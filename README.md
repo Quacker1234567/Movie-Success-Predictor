@@ -1,4 +1,4 @@
-# Movie Success Predictor
+# Movie Success Predictor 
 This machine learning project utilizes the TMDB 5000 Movie Dataset to build classification models to predict whether a movie will be a success or failure and regression models to predict a movie's revenue. The purpose of this project is to see how different machine learning models perform on the same tasks.
 
 ## Dataset
